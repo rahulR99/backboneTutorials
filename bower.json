@@ -1,0 +1,22 @@
+{
+  "name": "bbone",
+  "description": "",
+  "main": "main.js",
+  "authors": [
+    "rahul"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "^1.3.3",
+    "bootstrap": "^3.3.6"
+  }
+}
